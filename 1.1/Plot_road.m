@@ -1,0 +1,16 @@
+
+
+rectangle('Position',[-3*block+.5*width  2*block+.5*width   block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-3*block+.5*width   -block+.5*width   block-width 3*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-3*block+.5*width -3*block+.5*width   block-width 2*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-2*block+.5*width  2*block+.5*width 3*block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-2*block+.5*width    block+.5*width 3*block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-2*block+.5*width  0*block+.5*width   block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-2*block+.5*width   -block+.5*width   block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[-2*block+.5*width -3*block+.5*width   block-width 2*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[  -block+.5*width   -block+.5*width 2*block-width 2*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[  -block+.5*width -2*block+.5*width 3*block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[  -block+.5*width -3*block+.5*width 3*block-width   block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[   block+.5*width    block+.5*width 2*block-width 2*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[   block+.5*width   -block+.5*width   block-width 2*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
+rectangle('Position',[ 2*block+.5*width -3*block+.5*width   block-width 4*block-width],'FaceColor',[0.5 0.7 0.2],'EdgeColor','none')
